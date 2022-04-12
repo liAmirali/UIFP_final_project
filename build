@@ -1,0 +1,3 @@
+#!/bin/bash
+g++ main.cpp -o ems_linux64
+x86_64-w64-mingw32-g++ main.cpp -o ems_win64.exe -static
